@@ -19,7 +19,7 @@
 
 Clone project từ github
 ```
-  git clone https://github.com/ngan429/DETAI14.git
+  https://github.com/doankhoa126/applicationDatabaseAWS.git
 ```
 
 Truy cập thư mục chứa project
