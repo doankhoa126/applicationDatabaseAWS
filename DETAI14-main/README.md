@@ -14,11 +14,6 @@
 ## Server: AWS Lambda, AWS SQS, AWS EC2,Flask Framework
 ## Database: MySQL
 
-## Thành viên của nhóm
-
-- 19133028 Đoàn Trần Đăng Khoa
-- 19133038 Lê Thị Kim Ngân
-- 19133055 Đào Thị Cẩm Tiên
 
 ## Chạy trên Localhost
 
